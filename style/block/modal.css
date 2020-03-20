@@ -1,0 +1,15 @@
+.modal{
+    position: absolute;
+    display: block;
+    width: 600px;
+    height: 530px;
+    /*background: #ffffff;*/
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2rem;
+    background: rgb(0, 182, 192);
+}
